@@ -1,0 +1,29 @@
+{
+  "name": "nagios-supervisord",
+  "version": "1.0.0",
+  "description": "A nagios plugin to monitor a supervisord for processes that aren't running",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^1.21.0",
+    "supervisord": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyvdSluijs/nagios-supervisord.git"
+  },
+  "keywords": [
+    "nagios",
+    "plugin",
+    "supervisord"
+  ],
+  "author": "Danny van der Sluijs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DannyvdSluijs/nagios-supervisord/issues"
+  },
+  "homepage": "https://github.com/DannyvdSluijs/nagios-supervisord#readme"
+}
