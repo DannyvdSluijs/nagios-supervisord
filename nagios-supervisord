@@ -1,3 +1,4 @@
+#!/usr/bin/nodejs
 var config = require('config'); /* Config reading */
 var supervisord = require('supervisord'); /* Supervisord xml rpc implementation */
 

@@ -2,7 +2,7 @@
   "name": "nagios-supervisord",
   "version": "1.0.0",
   "description": "A nagios plugin to monitor a supervisord for processes that aren't running",
-  "main": "index.js",
+  "main": "nagios-supervisord",
   "dependencies": {
     "config": "^1.21.0",
     "supervisord": "^0.1.0"
